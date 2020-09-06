@@ -20,6 +20,7 @@ jobs:
           architecture: 'x64'
       - name: Install dependencies
         run: |
+          sudo apt-get install libpython3.8
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Generate README file
