@@ -14,7 +14,9 @@ jobs:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v2
       - name: Install python dependencies
-        run: sudo apt-get install --yes libpython3.8
+        run: |
+          apt-get update
+          apt-get install --yes libpython3.8
       - name: Setting up python env
         uses: actions/setup-python@v2
         with:
