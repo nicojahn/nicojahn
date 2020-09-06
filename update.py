@@ -47,7 +47,7 @@ def getGitHubActivity():
                ]
    
     # either use the n most recent projects or if no filter applies, use just the most recent
-    dynamic_information['projects'] = 'as well as'.join(projects) if len(projects) else all_repositories[0]
+    dynamic_information['projects'] = ' as well as '.join(projects) if len(projects) else all_repositories[0]
 
 class UpdateREADME:
     def __init__(self,*args,**kwargs):
