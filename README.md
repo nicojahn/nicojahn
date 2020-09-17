@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/in%20progress%20since-aug.%201996-blue?style=flat) ![image](https://img.shields.io/badge/runs%20on-caffeine-brown?style=flat&logo=buy-me-a-coffee&logoColor=brown) ![image](https://img.shields.io/badge/homepage-blank-white?style=flat&?link=https://nicojahn.com&link=https://nicojahn.com)
 
-Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Thursday, 17 September 2020, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
+Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Friday, 18 September 2020, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
 🔭 I'm currently working on <!-- projects -->repository [nicojahn/nicojahn](https://github.com/nicojahn/nicojahn) which was updated 0 days ago and is mainly written in Python as well as repository [nicojahn/ml-tools](https://github.com/nicojahn/ml-tools) which was updated 6 days ago and is mainly written in Jupyter Notebook as well as repository [nicojahn/open-neural-apc](https://github.com/nicojahn/open-neural-apc) which was updated 6 days ago and is mainly written in Python<!-- projects -->.
 
