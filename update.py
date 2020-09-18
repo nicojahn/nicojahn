@@ -15,7 +15,7 @@ max_repos_listed = 5 # number of repositories
 dt_date = datetime.datetime.now(pytz.timezone(timezone))
 
 dynamic_information = { 'city': 'Berlin',
-                        'contact': ':email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](nicojahn.com)',
+                        'contact': ':email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)',
                         'date': dt_date.strftime("%A, %d %B %Y, %Z"),
                         'filename': 'README.md',
                         'github': 'github.com/%s'%github_user_name,
