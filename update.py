@@ -10,7 +10,7 @@ import requests
 github_user_name = 'nicojahn'
 timezone = 'Europe/Berlin'
 max_recent_activity = 14 # days
-max_repos_listed = 3 # number of repositories
+max_repos_listed = 5 # number of repositories
 
 dt_date = datetime.datetime.now(pytz.timezone(timezone))
 
@@ -26,7 +26,8 @@ dynamic_information = { 'city': 'Berlin',
 def getGitHubActivity():
     # some misc functions
     latest_change_in_days = lambda latest_change_str: (dt_date-datetime.datetime.strptime(latest_change_str,'%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=pytz.timezone('UTC'))).days
-    make_string = lambda response: f"repository [{response['full_name']}]({response['html_url']}) which was updated {latest_change_in_days(response['updated_at'])} days ago{' and is mainly written in '+response['language'] if response['language'] is not None else ''}"
+    # when repository is not not the profile itself it returns a string else None (filtered later)
+    make_string = lambda response: f"repository [{response['full_name']}]({response['html_url']}) which was updated {latest_change_in_days(response['updated_at'])} days ago{' and is mainly written in '+response['language'] if response['language'] is not None else ''}" if response['full_name'] != f"{github_user_name}/{github_user_name}" else None
 
     # the actual request to the GitHub API
     # default response timezone: https://developer.github.com/v3/#defaulting-to-utc-without-other-timezone-information
@@ -41,11 +42,12 @@ def getGitHubActivity():
                              )
     # testing the walrus-operator
     i = 0
-    projects = [     repo[1]
-                 for repo in all_repositories
-                   if repo[0]<max_recent_activity and (i := i+1) <= max_repos_listed
-               ]
-   
+    projects = []
+    for repo in all_repositories:
+        if not repo[1] is None and repo[0]<max_recent_activity: # filtering the profile repo
+            if (i := i+1) <= max_repos_listed:
+                projects+=[repo[1]]
+
     # either use the n most recent projects or if no filter applies, use just the most recent
     dynamic_information['projects'] = ' as well as '.join(projects) if len(projects) else all_repositories[0]
 
