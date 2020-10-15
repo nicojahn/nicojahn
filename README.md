@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Thursday, 15 October 2020, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/nicojahn.github.io](https://github.com/nicojahn/nicojahn.github.io) which was updated 12 days ago as well as repository [nicojahn/open-neural-apc](https://github.com/nicojahn/open-neural-apc) which was updated 12 days ago and is mainly written in Python<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/open-neural-apc](https://github.com/nicojahn/open-neural-apc) which was updated 0 days ago and is mainly written in Python as well as repository [nicojahn/nicojahn.github.io](https://github.com/nicojahn/nicojahn.github.io) which was updated 12 days ago<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
