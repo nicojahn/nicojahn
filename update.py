@@ -47,9 +47,16 @@ def getGitHubActivity():
         if not repo[1] is None and repo[0] < max_recent_activity: # filtering the profile repo
             if (i := i+1) <= max_repos_listed:
                 projects += [repo[1]]
-
+    
+    # fixing the bug of no activity
+    if not len(projects):
+        for repo in all_repositories:
+            if not repo[1] is None:
+                projects = [repo[1]]
+                break
+    
     # either use the n most recent projects or if no filter applies, use just the most recent
-    dynamic_information['projects'] = ' as well as '.join(projects) if len(projects) else all_repositories[0]
+    dynamic_information['projects'] = ' as well as '.join(projects)
 
 class UpdateREADME:
     def __init__(self,*args,**kwargs):
@@ -104,7 +111,7 @@ class UpdateREADME:
                                 span = re.search(tag + re.escape(value) + tag, line_replacement).span()
                                 # tuple arithmetics
                                 remove = tuple(map(add, span, (len(tag), -len(tag))))
-                                line_replacement = line_replacement[:remove[0]]) + str(self.information[key]) + line_replacement[remove[1]:]
+                                line_replacement = line_replacement[:remove[0]] + self.information[key] + line_replacement[remove[1]:]
             self.content[idx] = line_replacement
         return self
 
