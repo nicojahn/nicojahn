@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Thursday, 11 February 2021, CET<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/route53-dyndns](https://github.com/nicojahn/route53-dyndns) which was updated 11 days ago<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/route53-dyndns](https://github.com/nicojahn/route53-dyndns) which was updated 12 days ago<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
