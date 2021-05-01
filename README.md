@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/in%20progress%20since-aug.%201996-blue?style=flat) ![image](https://img.shields.io/badge/runs%20on-caffeine-brown?style=flat&logo=buy-me-a-coffee&logoColor=brown) ![image](https://img.shields.io/badge/homepage-blank-white?style=flat&?link=https://nicojahn.com&link=https://nicojahn.com)
 
-Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Saturday, 01 May 2021, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
+Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Sunday, 02 May 2021, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
 🔭 I'm currently working on <!-- projects -->repository [nicojahn/charts](https://github.com/nicojahn/charts) which was updated 43 days ago and is mainly written in Mustache<!-- projects -->.
 
