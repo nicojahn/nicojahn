@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Monday, 03 May 2021, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/charts](https://github.com/nicojahn/charts) which was updated 45 days ago and is mainly written in Mustache<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/EPFD](https://github.com/nicojahn/EPFD) which was updated 0 days ago<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
