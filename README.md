@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/in%20progress%20since-aug.%201996-blue?style=flat) ![image](https://img.shields.io/badge/runs%20on-caffeine-brown?style=flat&logo=buy-me-a-coffee&logoColor=brown) ![image](https://img.shields.io/badge/homepage-blank-white?style=flat&?link=https://nicojahn.com&link=https://nicojahn.com)
 
-Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Wednesday, 30 June 2021, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
+Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Thursday, 01 July 2021, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
 🔭 I'm currently working on <!-- projects -->repository [nicojahn/EPFD-pipeline](https://github.com/nicojahn/EPFD-pipeline) which was updated 2 days ago and is mainly written in Jupyter Notebook as well as repository [nicojahn/adversarial.js](https://github.com/nicojahn/adversarial.js) which was updated 7 days ago and is mainly written in JavaScript as well as repository [nicojahn/EPFD](https://github.com/nicojahn/EPFD) which was updated 12 days ago and is mainly written in Python<!-- projects -->.
 
