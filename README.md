@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Wednesday, 04 August 2021, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/EPFD-pipeline](https://github.com/nicojahn/EPFD-pipeline) which was updated 17 days ago and is mainly written in Jupyter Notebook<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/EPFD-pipeline](https://github.com/nicojahn/EPFD-pipeline) which was updated 18 days ago and is mainly written in Jupyter Notebook<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
