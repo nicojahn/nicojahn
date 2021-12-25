@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Saturday, 25 December 2021, CET<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/Determining-the-Relevance-of-Features-for-Deep-Neural-Networks](https://github.com/nicojahn/Determining-the-Relevance-of-Features-for-Deep-Neural-Networks) which was updated 22 days ago and is mainly written in Jupyter Notebook<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/Determining-the-Relevance-of-Features-for-Deep-Neural-Networks](https://github.com/nicojahn/Determining-the-Relevance-of-Features-for-Deep-Neural-Networks) which was updated 23 days ago and is mainly written in Jupyter Notebook<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
