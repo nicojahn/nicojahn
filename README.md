@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Friday, 21 January 2022, CET<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/pymooney](https://github.com/nicojahn/pymooney) which was updated 2 days ago and is mainly written in Python<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/pymooney](https://github.com/nicojahn/pymooney) which was updated 3 days ago and is mainly written in Python<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
