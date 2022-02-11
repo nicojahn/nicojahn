@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Friday, 11 February 2022, CET<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/jupyterhub-ssh](https://github.com/nicojahn/jupyterhub-ssh) which was updated 1 days ago and is mainly written in Python as well as repository [nicojahn/contrastive-unpaired-translation](https://github.com/nicojahn/contrastive-unpaired-translation) which was updated 6 days ago as well as repository [nicojahn/amazon-s3-plugin-for-pytorch](https://github.com/nicojahn/amazon-s3-plugin-for-pytorch) which was updated 10 days ago and is mainly written in Python<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/jupyterhub-ssh](https://github.com/nicojahn/jupyterhub-ssh) which was updated 2 days ago and is mainly written in Python as well as repository [nicojahn/contrastive-unpaired-translation](https://github.com/nicojahn/contrastive-unpaired-translation) which was updated 6 days ago as well as repository [nicojahn/amazon-s3-plugin-for-pytorch](https://github.com/nicojahn/amazon-s3-plugin-for-pytorch) which was updated 10 days ago and is mainly written in Python<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
