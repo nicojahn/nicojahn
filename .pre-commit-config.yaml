@@ -1,0 +1,47 @@
+---
+repos:
+    - repo: https://github.com/pre-commit/pre-commit-hooks
+      rev: v4.1.0
+      hooks:
+          - id: end-of-file-fixer
+          - id: trailing-whitespace
+          - id: check-docstring-first
+          - id: fix-encoding-pragma
+          - id: check-ast
+          - id: requirements-txt-fixer
+          - id: check-case-conflict
+
+    - repo: https://github.com/psf/black
+      rev: 22.3.0
+      hooks:
+          - id: black
+
+    - repo: https://github.com/zricethezav/gitleaks
+      rev: v8.5.3
+      hooks:
+          - id: gitleaks
+
+    - repo: https://github.com/asottile/reorder_python_imports
+      rev: v3.0.1
+      hooks:
+          - id: reorder-python-imports
+
+    - repo: https://github.com/hadialqattan/pycln
+      rev: v1.2.5
+      hooks:
+          - id: pycln
+
+    - repo: https://github.com/myint/docformatter
+      rev: v1.4
+      hooks:
+          - id: docformatter
+            args: [--in-place]
+
+    - repo: local
+      hooks:
+          - id: pylint
+            name: pylint
+            entry: pylint
+            language: system
+            types: [python]
+            args: [--fail-under=9.5]

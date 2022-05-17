@@ -1,3 +1,1 @@
-pytz
-pyjson
 requests
