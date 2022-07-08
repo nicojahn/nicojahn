@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Friday, 08 July 2022, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/pyblur3](https://github.com/nicojahn/pyblur3) which was updated 17 days ago and is mainly written in Python<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/pyblur3](https://github.com/nicojahn/pyblur3) which was updated 18 days ago and is mainly written in Python<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
