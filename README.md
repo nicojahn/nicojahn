@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Thursday, 06 April 2023, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/tdengine-problems](https://github.com/nicojahn/tdengine-problems) which was updated 0 days ago and is mainly written in Mustache as well as repository [nicojahn/tdengine-kafka-connector-image](https://github.com/nicojahn/tdengine-kafka-connector-image) which was updated 1 days ago and is mainly written in Dockerfile as well as repository [nicojahn/the-algorithm](https://github.com/nicojahn/the-algorithm) which was updated 3 days ago<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/tdengine-kafka-connector-image](https://github.com/nicojahn/tdengine-kafka-connector-image) which was updated 1 days ago and is mainly written in Dockerfile as well as repository [nicojahn/tdengine-problems](https://github.com/nicojahn/tdengine-problems) which was updated 1 days ago and is mainly written in Mustache as well as repository [nicojahn/the-algorithm](https://github.com/nicojahn/the-algorithm) which was updated 3 days ago<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
