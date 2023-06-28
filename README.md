@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Wednesday, 28 June 2023, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/HighFiveExample](https://github.com/nicojahn/HighFiveExample) which was updated 25 days ago and is mainly written in C++<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/HighFiveExample](https://github.com/nicojahn/HighFiveExample) which was updated 26 days ago and is mainly written in C++<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :bird: [nicojahn96](https://twitter.com/nicojahn96), :computer: [nicojahn.com](https://nicojahn.com)<!-- contact -->.
