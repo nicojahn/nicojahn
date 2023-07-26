@@ -13,8 +13,8 @@ dynamic_information = {
     "city": "Berlin",
     "contact": (
         ":email: dev@nicojahn.com, "
-        + ":bird: [nicojahn96](https://twitter.com/nicojahn96), "
-        + ":computer: [nicojahn.com](https://nicojahn.com)"
+        + ":octocat: [nicoja-hn](https://github.com/nicoja-hn), "
+        + ":computer: [nicoja.hn](https://nicoja.hn)"
     ),
     "date": DT_DATE.strftime("%A, %d %B %Y, %Z"),
     "filename": "README.md",
