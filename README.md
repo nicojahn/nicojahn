@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Tuesday, 01 August 2023, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/tdengine-kafka-connector-image](https://github.com/nicojahn/tdengine-kafka-connector-image) which was updated 5 days ago and is mainly written in Dockerfile<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/tdengine-kafka-connector-image](https://github.com/nicojahn/tdengine-kafka-connector-image) which was updated 6 days ago and is mainly written in Dockerfile<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :octocat: [nicoja-hn](https://github.com/nicoja-hn), :computer: [nicoja.hn](https://nicoja.hn)<!-- contact -->.
