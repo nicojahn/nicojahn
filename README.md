@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Monday, 14 August 2023, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/kubernetes](https://github.com/nicojahn/kubernetes) which was updated 0 days ago<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/kubernetes](https://github.com/nicojahn/kubernetes) which was updated 1 days ago<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :octocat: [nicoja-hn](https://github.com/nicoja-hn), :computer: [nicoja.hn](https://nicoja.hn)<!-- contact -->.
