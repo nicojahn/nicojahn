@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/in%20progress%20since-aug.%201996-blue?style=flat) ![image](https://img.shields.io/badge/runs%20on-caffeine-brown?style=flat&logo=buy-me-a-coffee&logoColor=brown) ![image](https://img.shields.io/badge/homepage-blank-white?style=flat&?link=https://nicojahn.com&link=https://nicojahn.com)
 
-Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Thursday, 05 October 2023, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
+Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Friday, 06 October 2023, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
 🔭 I'm currently working on <!-- projects -->repository [nicojahn/kubernetes](https://github.com/nicojahn/kubernetes) which was updated 53 days ago<!-- projects -->.
 
