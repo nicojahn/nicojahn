@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Saturday, 28 June 2025, CEST<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/generative-ai-cdk-constructs](https://github.com/nicojahn/generative-ai-cdk-constructs) which was updated 137 days ago and is mainly written in TypeScript<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/generative-ai-cdk-constructs](https://github.com/nicojahn/generative-ai-cdk-constructs) which was updated 138 days ago and is mainly written in TypeScript<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :octocat: [nicoja-hn](https://github.com/nicoja-hn), :computer: [nicoja.hn](https://nicoja.hn)<!-- contact -->.
