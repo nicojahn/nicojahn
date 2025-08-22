@@ -1,15 +1,23 @@
 # -*- coding: utf-8 -*-
-"""Just a helper file which holds most of the data."""
+"""Configuration data and constants for README generation.
+
+This module contains all the configuration parameters, user information,
+and dynamic data used to generate the README.md file with current GitHub
+activity and profile information.
+"""
 import datetime
+from typing import Dict, Optional, Union
 from zoneinfo import ZoneInfo
 
-GITHUB_USER_NAME = "nicojahn"
-TZ = "Europe/Berlin"
-MAX_RECENT_ACTIVITY = 14  # days
-MAX_REPOS_LISTED = 5  # number of repositories
-DT_DATE = datetime.datetime.now(ZoneInfo(TZ))
+# GitHub configuration constants
+GITHUB_USER_NAME: str = "nicojahn"
+TZ: str = "Europe/Berlin"
+MAX_RECENT_ACTIVITY: int = 14  # days
+MAX_REPOS_LISTED: int = 5  # number of repositories
+DT_DATE: datetime.datetime = datetime.datetime.now(ZoneInfo(TZ))
 
-dynamic_information = {
+# Dynamic information dictionary used for README template replacement
+dynamic_information: Dict[str, Optional[Union[str, None]]] = {
     "city": "Berlin",
     "contact": (
         ":email: dev@nicojahn.com, "
