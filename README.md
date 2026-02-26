@@ -4,6 +4,6 @@
 
 Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Thursday, 26 February 2026, CET<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
-🔭 I'm currently working on <!-- projects -->repository [nicojahn/amazon-bedrock-agentcore-samples](https://github.com/nicojahn/amazon-bedrock-agentcore-samples) which was updated 110 days ago and is mainly written in Jupyter Notebook<!-- projects -->.
+🔭 I'm currently working on <!-- projects -->repository [nicojahn/open-neural-apc](https://github.com/nicojahn/open-neural-apc) which was updated 0 days ago and is mainly written in Python<!-- projects -->.
 
 📫 You can reach out to me via <!-- contact -->:email: dev@nicojahn.com, :octocat: [nicoja-hn](https://github.com/nicoja-hn), :computer: [nicoja.hn](https://nicoja.hn)<!-- contact -->.
