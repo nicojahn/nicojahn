@@ -2,7 +2,7 @@
 
 [![image](https://img.shields.io/badge/in%20progress%20since-aug.%201996-blue?style=flat)](https://nicoja.hn/) [![image](https://img.shields.io/badge/runs%20on-caffeine-brown?style=flat&logo=buy-me-a-coffee&logoColor=brown)](https://nicoja.hn/) [![image](https://img.shields.io/badge/homepage-static-white?style=flat)](https://nicoja.hn/)
 
-Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Monday, 23 March 2026, CET<!-- date --> in <!-- city -->Berlin<!-- city -->.
+Hi! My name is <!-- name -->Nico Jahn<!-- name --> and right now it's <!-- date -->Tuesday, 24 March 2026, CET<!-- date --> in <!-- city -->Berlin<!-- city -->.
 
 🔭 I'm currently working on <!-- projects -->repository [nicojahn/open-neural-apc](https://github.com/nicojahn/open-neural-apc) which was updated 25 days ago and is mainly written in Python<!-- projects -->.
 
